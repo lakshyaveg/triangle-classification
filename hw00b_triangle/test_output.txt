@@ -1,0 +1,12 @@
+test_equilateral (test_triangle.TestTriangle.test_equilateral) ... ok
+test_invalid (test_triangle.TestTriangle.test_invalid) ... ok
+test_isosceles (test_triangle.TestTriangle.test_isosceles) ... ok
+test_non_numeric (test_triangle.TestTriangle.test_non_numeric) ... ok
+test_right_isosceles (test_triangle.TestTriangle.test_right_isosceles) ... ok
+test_right_scalene (test_triangle.TestTriangle.test_right_scalene) ... ok
+test_scalene (test_triangle.TestTriangle.test_scalene) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK

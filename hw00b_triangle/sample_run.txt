@@ -1,0 +1,11 @@
+$ python triangle_cli.py 3 4 5
+scalene triangle (right)
+
+$ python triangle_cli.py 5 5 5
+equilateral triangle
+
+$ python triangle_cli.py 5 5 8
+isosceles triangle
+
+$ python triangle_cli.py 1 2 3
+not a triangle
