@@ -1,0 +1,24 @@
+************* Module triangle_cli
+hw00b_triangle/triangle_cli.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/triangle_cli.py:13:8: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+hw00b_triangle/triangle_cli.py:13:11: C0103: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+hw00b_triangle/triangle_cli.py:13:14: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+hw00b_triangle/triangle_cli.py:16:8: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+hw00b_triangle/triangle_cli.py:17:8: C0103: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+hw00b_triangle/triangle_cli.py:18:8: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+************* Module triangle
+hw00b_triangle/triangle.py:1:0: F0002: hw00b_triangle/triangle.py: Fatal error while checking 'hw00b_triangle/triangle.py'. Please open an issue in our bug tracker so we address this. There is a pre-filled template that you can use in '/Users/lakshya/Library/Caches/pylint/pylint-crash-2025-10-03-23-01-07.txt'. (astroid-error)
+************* Module test_triangle
+hw00b_triangle/test_triangle.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+hw00b_triangle/test_triangle.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+hw00b_triangle/test_triangle.py:5:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/test_triangle.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/test_triangle.py:13:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/test_triangle.py:16:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/test_triangle.py:20:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/test_triangle.py:26:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw00b_triangle/test_triangle.py:31:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
