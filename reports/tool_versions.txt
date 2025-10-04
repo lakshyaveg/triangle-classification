@@ -1,0 +1,6 @@
+pylint 2.16.2
+astroid 2.14.2
+Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ]
+Coverage.py, version 7.10.7 with C extension
+Full documentation is at https://coverage.readthedocs.io/en/7.10.7
+pytest 7.4.4
